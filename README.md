@@ -1,2 +1,2 @@
-# google-tag-manager-refresher
-Refresh current GTM workspace
+# Google Tag Manager Refresher
+Refresh GTM workspace of current page
